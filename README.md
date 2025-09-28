@@ -60,8 +60,8 @@ languages: Arabic (native), English (learning), Java, Python, PHP, JS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmeenAlAlimi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmeenAlAlimi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ameen-Soft&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ameen-Soft&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
