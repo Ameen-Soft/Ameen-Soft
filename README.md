@@ -1,19 +1,19 @@
 <!-- README.md for Sir Ameen AlAlimi -->
 
-<h1 align="center">💻 Welcome to Ameen's Universe! 💻</h1>
+<h1 align="center"> Welcome to Ameen's Page! </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" width="350" />
 </p>
 
-<h3 align="center">🧠 Software Developer | 🎓 IT Student | 🎯 Future Tech Legend</h3>
+<h3 align="center"> Software Developer |  IT Student |  Future Tech Legend</h3>
 <p align="center">
-  🇾🇪 From Taiz, Yemen · 💻 Lives in Code · 🎙️ Can talk for hours about tech
+  🇾🇪 From Taiz, Yemen ·  Lives in Code ·  Can talk for hours about tech
 </p>
 
 ---
 
-## 🧬 About Me
+##  About Me
 
 ```yaml
 name: Ameen AlAlimi
@@ -26,38 +26,38 @@ hobbies: Learning everything, deep talk about tech, experimenting with new techn
 languages: Arabic (native), English (learning), Java, Python, PHP, JS
 ```
 
-- 💬 I appreciate deep conversations about programming, tech, and futuristic ideas.
-- ⚔️ I challenge myself daily to grow and sharpen my skills.
-- 🤝 I dream to connect communities and serve humanity through meaningful code.
-- 📱 Telegram: [@AmeenDev](https://t.me/AmeenDev).
+-  I appreciate deep conversations about programming, tech, and futuristic ideas.
+-  I challenge myself daily to grow and sharpen my skills.
+-  I dream to connect communities and serve humanity through meaningful code.
+-  Telegram: [@AmeenDev](https://t.me/AmeenDev).
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ```txt
-💻 Languages: Java, Python, PHP, JavaScript, HTML/CSS
-🧠 Tools: Git, GitHub, VSCode, Figma
-🎨 Frameworks: Flutter, Laravel, Bootstrap, React (learning)
-🗄️ DBs: MySQL, Firebase
-⚙️ DevOps: GitHub Actions, Linux Shell
-🌐 Concepts: OOP, Networking, API Integration, Real-time Systems
+ Languages: Java, Python, PHP, JavaScript, HTML/CSS
+ Tools: Git, GitHub, VSCode, Figma
+ Frameworks: Flutter, Laravel, Bootstrap, React (learning)
+ DBs: MySQL, Firebase
+ DevOps: GitHub Actions, Linux Shell
+ Concepts: OOP, Networking, API Integration, Real-time Systems
 ```
 
 ---
 
-## 🧪 Featured Projects
+##  Featured Projects
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 📚 Library System | Modern library system with finance tracking and publishing houses | 🏗️ In Progress |
-| 🍽️ Smart Restaurant LAN | Local network-based smart ordering system with QR table scans | ✅ Completed |
-| 🏡 Real Estate App | Android app for real estate with services and pro profiles | 🔄 Developing |
-| 🧑‍💻 Handyman Marketplace | Connects local workers (builders, plumbers...) with clients | 🔥 Hot Idea |
+|  Library System | Modern library system with finance tracking and publishing houses |  In Progress |
+|  Smart Restaurant LAN | Local network-based smart ordering system with QR table scans |  Completed |
+|  Real Estate App | Android app for real estate with services and pro profiles |  Developing |
+|  Handyman Marketplace | Connects local workers (builders, plumbers...) with clients |  Hot Idea |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ameen-Soft&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -66,7 +66,7 @@ languages: Arabic (native), English (learning), Java, Python, PHP, JS
 
 ---
 
-## 📫 Contact
+##  Contact
 
 ```yaml
 Phone: +967 777235077
